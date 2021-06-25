@@ -37,3 +37,5 @@ const instructor = migration
 contentful login
 cd to migration folder
 contentful space migration --space-id '{SPACE_ID}' --environment-id '{ENVIRONMENT_ID}' {FILENAME.js}
+
+//test commit
